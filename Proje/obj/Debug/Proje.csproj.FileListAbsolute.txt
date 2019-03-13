@@ -1,0 +1,10 @@
+C:\Users\Rasit\Desktop\Ben\ders\Son1\kripto\Proje\Proje\bin\Debug\Proje.exe.config
+C:\Users\Rasit\Desktop\Ben\ders\Son1\kripto\Proje\Proje\bin\Debug\Proje.exe
+C:\Users\Rasit\Desktop\Ben\ders\Son1\kripto\Proje\Proje\bin\Debug\Proje.pdb
+C:\Users\Rasit\Desktop\Ben\ders\Son1\kripto\Proje\Proje\obj\Debug\Proje.csprojResolveAssemblyReference.cache
+C:\Users\Rasit\Desktop\Ben\ders\Son1\kripto\Proje\Proje\obj\Debug\Proje.Form1.resources
+C:\Users\Rasit\Desktop\Ben\ders\Son1\kripto\Proje\Proje\obj\Debug\Proje.Properties.Resources.resources
+C:\Users\Rasit\Desktop\Ben\ders\Son1\kripto\Proje\Proje\obj\Debug\Proje.csproj.GenerateResource.Cache
+C:\Users\Rasit\Desktop\Ben\ders\Son1\kripto\Proje\Proje\obj\Debug\Proje.csproj.CoreCompileInputs.cache
+C:\Users\Rasit\Desktop\Ben\ders\Son1\kripto\Proje\Proje\obj\Debug\Proje.exe
+C:\Users\Rasit\Desktop\Ben\ders\Son1\kripto\Proje\Proje\obj\Debug\Proje.pdb
